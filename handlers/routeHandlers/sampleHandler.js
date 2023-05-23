@@ -11,7 +11,7 @@
 const sampleHandler = {};
 
 sampleHandler.handle=()=>{
-
+    console.log('Sample now');
 }
 
 module.exports =sampleHandler;
